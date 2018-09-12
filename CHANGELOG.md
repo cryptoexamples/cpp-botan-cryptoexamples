@@ -38,5 +38,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - made some security relevant changes
 - made other security relevant changes
 
-[Unreleased]: https://github.com/cryptoexamples/botan-cryptoexamples/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/cryptoexamples/botan-cryptoexamples/releases/tag/0.0.1
+[Unreleased]: https://github.com/cryptoexamples/cpp-botan-cryptoexamples/compare/v0.0.1...HEAD
+[0.0.2]: https://github.com/cryptoexamples/cpp-botan-cryptoexamples/compare/v0.0.1...v0.0.2
+[0.0.1]: https://github.com/cryptoexamples/cpp-botan-cryptoexamples/releases/tag/0.0.1
